@@ -1,4 +1,4 @@
-# GraphAlgoVisulaization//
+# GraphAlgoVisualization//
 Run index.html //
 The default algo currently is bfs//
 Hold w and hover to create walls//
